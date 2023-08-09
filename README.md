@@ -1,1 +1,1 @@
-python_deploy.yml
+python_project
